@@ -18,15 +18,14 @@
 **为什么是她们？**  
 每个女性在人生的不同阶段，都需要不同的力量：
 
-
-<center><strong>莉拉</strong>：我要让所有人都知道，我不是一件物品，我是一个人</center>
-<center><strong>斯嘉丽</strong>：As God is my witness, I'll never be hungry again!</center>
-<center><strong>罗海燕</strong>：我要成为上海的前10%</center>
-<center><strong>戴锦华</strong>：女性的解放是一个未完成的承诺</center>
-<center><strong>伍尔夫</strong>：A woman must have money and a room of her own</center>
-<center><strong>邵艺辉</strong>：我们不必像男人一样拍电影，柔弱平和也能掌控片场</center>
+<center><strong>伍尔夫</strong>：A woman must have money and a room of her own</center><br>
+<center><strong>莉拉</strong>：我要让所有人都知道，我不是一件物品，我是一个人</center><br>
+<center><strong>莱农</strong>：写作是我对抗命运的唯一武器</center><br>
+<center><strong>斯嘉丽</strong>：As God is my witness, I'll never be hungry again!</center><br>
+<center><strong>罗海燕</strong>：我要成为上海的前10%</center><br>
+<center><strong>戴锦华</strong>：女性的解放是一个未完成的承诺</center><br>
+<center><strong>邵艺辉</strong>：我们不必像男人一样拍电影，柔弱平和也能掌控片场</center><br>
 <center><strong>谷爱凌</strong>：I'm just trying to be the best version of myself</center>
-<center><strong>莱农</strong>：写作是我对抗命运的唯一武器</center>
 
 
 ---
@@ -196,6 +195,12 @@ git clone https://github.com/your-username/She-by-Your-Side-skills ~/.claude/ski
 ## 💝 致谢
 
 感谢所有为女性事业奋斗的先驱们，她们的智慧是照亮前路的灯塔。
+
+特别感谢 **nuwa-skill** 。
+
+---
+
+*蒸馏前任不如蒸馏「天才女友」* ✨
 
 ---
 
