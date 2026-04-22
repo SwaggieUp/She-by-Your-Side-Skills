@@ -195,19 +195,10 @@ git clone https://github.com/your-username/She-by-Your-Side-skills ~/.claude/ski
 ## 💝 致谢
 
 感谢所有为女性事业奋斗的先驱们，她们的智慧是照亮前路的灯塔。
-
 特别感谢 **nuwa-skill** 。
-
----
-
-*蒸馏前任不如蒸馏「天才女友」* ✨
-
----
 
 > **愿每个女性都能找到属于自己的力量。** 🌟
 
 > Made with ❤️ for women everywhere
-
----
 
 *项目创建于 2026年*
